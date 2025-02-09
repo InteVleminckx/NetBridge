@@ -1,5 +1,7 @@
 # NetBridge
 
+An easy way to interact with your existing code using another script.
+
 ## Server setup
 
 ```py
