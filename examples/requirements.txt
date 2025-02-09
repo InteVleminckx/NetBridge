@@ -1,0 +1,5 @@
+dearpygui==2.0.0
+dearpygui-async==0.1.2
+orderly-set==5.3.0
+pygame==2.6.1
+
