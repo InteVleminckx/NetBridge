@@ -1,5 +1,4 @@
 import json
-from deepdiff import DeepDiff
 import pickle
 import base64
 from ..message import Message

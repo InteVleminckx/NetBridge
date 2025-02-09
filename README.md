@@ -49,3 +49,9 @@ class AnotherClass:
         # lists, tuples, sets, and dicts will be extends with the given data. Other values will be overriden
         data, info = update_state(self.client, {"key of the member": False, "other key": [1, 2, 3]})
 ```
+
+## Examples
+
+install the requirements.txt and install netbridge with the setup.py.
+
+Then run examples/client/dearpygui_app.py and examples/server/pygame_app.py as two different scripts.

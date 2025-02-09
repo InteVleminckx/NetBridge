@@ -1,2 +1,1 @@
 websockets==14.2
-deepdiff==8.2.0
