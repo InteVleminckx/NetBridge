@@ -5,7 +5,6 @@ class Client:
         self.host = host
         self.port = port
         self.client_socket = None
-        self.messagepool = {}
 
     def connect(self):
         """Connect to the server."""
