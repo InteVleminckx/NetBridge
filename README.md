@@ -52,6 +52,5 @@ class AnotherClass:
 
 ## Examples
 
-install the requirements.txt and install netbridge with the setup.py.
-
+Install the requirements.txt and install netbridge using the setup.py.
 Then run examples/client/dearpygui_app.py and examples/server/pygame_app.py as two different scripts.
