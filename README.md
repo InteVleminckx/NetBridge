@@ -2,7 +2,13 @@
 
 An easy way to interact with your existing code using another script.
 
-## Server setup
+## Fast Installation
+
+```bash
+pip install git+https://github.com/InteVleminckx/NetBridge.git
+```
+
+## Server Setup
 
 ```py
 from netbridge.server.api import start_server
@@ -25,7 +31,7 @@ class SomeClass:
         self.some_member = new_data["key of the member"]
 ```
 
-## Client setup
+## Client Setup
 
 ```py
 from netbridge.client.api import connect, get_state, update_state
